@@ -1,0 +1,22 @@
+{
+  "wsproducts": [
+    {
+      "name": "Sony Bravia",
+      "price": "55000",
+      "description": "Sony TV",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "IPhone 8",
+      "price": 62000,
+      "description": "Apple IPhone 8"
+    },
+    {
+      "name": "Galaxy X",
+      "price": "23000",
+      "description": "Samsung Mobile",
+      "id": 3
+    }
+  ]
+}
